@@ -1,9 +1,9 @@
 <h1 align="center">Olá 🙋🏽‍♂️ Eu sou o Cristhian Santos</h1>
 <h3 align="center">Bem-vindo ao meu repositório. Separei alguns dos meus projetos pessoais e tarefas da minha graduação para disponibilizar por aqui, desde projetos de desenvolvimento de layouts, aplicações e artes de designer gráfico. 💻📚🎨 <br><br> Por aqui você consegue acompanhar minha evolução como desenvolvedor.💻</h3>
 <br><br>
-<h5>📚 Discente de Bacharel em Sistemas de Informação pelo Centro Universitário Estácio de Belo Horizonte.<br><br>
+<h3>📚 Discente de Bacharel em Sistemas de Informação pelo Centro Universitário Estácio de Belo Horizonte.<br><br>
 📜 Analista de dados em Arquivar - Gestão inteligente de documentos.<br><br>
-📱🎥 Apaixonado com tecnologia.<h5>
+📱🎥 Apaixonado com tecnologia.<h3>
 <h3 align="center">Conecte-se comigo:</h3>
 
 <p align="center">
