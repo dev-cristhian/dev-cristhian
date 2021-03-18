@@ -26,7 +26,7 @@
 </br>
 </br>
 
-**🔨 Minha Stack de Desenvolvimento🔧**
+**🔨 Minhas ferramentas e tecnlogias de trabalho🔧**
 
 </br>
 
