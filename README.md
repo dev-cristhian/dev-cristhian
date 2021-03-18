@@ -123,5 +123,6 @@
 
 </br>
 </br>
+<img align="center" alt="Cristhian Santos Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianFSantos&langs_count=5&theme=radical&layout=compact" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristhianFSantos&show_icons=true&theme=radical)
+![Cristhian GitHub stats](https://github-readme-stats.vercel.app/api?username=CristhianFSantos&show_icons=true&theme=radical)
