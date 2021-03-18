@@ -113,10 +113,10 @@
     <img  alt="Visual Studio Community" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 </a>
 <a href="https://www.postman.com/" target="_blank" >
-    <img  alt="Postman" title="Postman" width="40" height="40" src="./images/postman-seeklogo.com.svg" />
+    <img  alt="Postman" title="Postman" width="40" height="40" src="https://lh3.googleusercontent.com/v_bN4wSYKVT8ZX4y7SqTxfD-eFtfL4Df5puacRU3wDu9JX9kNM9OK3XmplVuJK4q-yhr-r0d-3z3shp8GVc0iYY1=w128-h128-e365-rj-sc0x00ffffff" />
 </a>
 <a href="https://insomnia.rest/" target="_blank" >
-    <img  alt="Insomnia" title="Insomnia" width="40" height="40" src="./images/insomnia.svg" />
+    <img  alt="Insomnia" title="Insomnia" width="40" height="40" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" />
 </a>
 </code>
 </p>
