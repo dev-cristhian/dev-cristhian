@@ -15,6 +15,7 @@
 
 
 **💥Atividade Recente 🎥**
+</br>
 **💥 Me conheça assistindo o vídeo abaixo e aproveite para aprender sobre POLÍTICA DE SEGURANÇA DA INFORMAÇÃO**
 <p align="center">
 <a title="Youtube" href="https://youtu.be/XYJta1kiN5Y">
@@ -22,7 +23,8 @@
 </a>
 </p>
 </br>
-**💥 APRENDA A PROTEGER SEUS DADOS**
+
+**APRENDA A PROTEGER SEUS DADOS**
 
 <p align="center">
 <a title="Youtube" href="https://www.youtube.com/watch?v=q2QLv11CFKc&t=1s">
