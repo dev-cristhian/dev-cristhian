@@ -16,7 +16,8 @@
 
 **💥Atividade Recente 🎥**
 </br>
-**💥 Me conheça assistindo o vídeo abaixo e aproveite para aprender sobre POLÍTICA DE SEGURANÇA DA INFORMAÇÃO**
+**💥 Me conheça assistindo os vídeos abaixo e aproveite para aprender sobre:**
+- POLÍTICA DE SEGURANÇA DA INFORMAÇÃO
 <p align="center">
 <a title="Youtube" href="https://youtu.be/XYJta1kiN5Y">
 <img align="" alt="Página" src="./printYoutube.png" width="520" height="300" />
@@ -24,11 +25,11 @@
 </p>
 </br>
 
-**APRENDA A PROTEGER SEUS DADOS**
+- 10 DICAS para PROTEGER SEUS DADOS NA INTERNET
 
 <p align="center">
 <a title="Youtube" href="https://www.youtube.com/watch?v=q2QLv11CFKc&t=1s">
-<img align="" alt="Página" src="./printYoutube.png" width="520" height="300" />
+<img align="" alt="Página" src="./print2.png" width="520" height="300" />
 </a>
 </p>
 
