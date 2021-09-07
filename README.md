@@ -15,13 +15,20 @@
 
 
 **💥Atividade Recente 🎥**
+**💥 Me conheça assistindo o vídeo abaixo e aproveite para aprender sobre POLÍTICA DE SEGURANÇA DA INFORMAÇÃO**
 <p align="center">
 <a title="Youtube" href="https://youtu.be/XYJta1kiN5Y">
 <img align="" alt="Página" src="./printYoutube.png" width="520" height="300" />
 </a>
 </p>
+</br>
+**💥 APRENDA A PROTEGER SEUS DADOS**
 
-**💥 Me conheça assistindo o vídeo acima e aproveite para aprender sobre POLÍTICA DE SEGURANÇA DA INFORMAÇÃO**
+<p align="center">
+<a title="Youtube" href="https://www.youtube.com/watch?v=q2QLv11CFKc&t=1s">
+<img align="" alt="Página" src="./printYoutube.png" width="520" height="300" />
+</a>
+</p>
 
 </br>
 </br>
