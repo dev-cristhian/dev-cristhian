@@ -2,11 +2,19 @@
 
 Software developer and loves technology 
 
+Enthusiast of the best technologies for web development and prototyping with microcontrollers.
+
 [![Linkedin Badge](https://img.shields.io/badge/-Cristhian%20Santos-8257e5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristhian-felipe-santos/)](https://www.linkedin.com/in/cristhian-felipe-santos/) 
+
 [![Gmail Badge](https://img.shields.io/badge/-cristhianfelipe0@gmail.com-8257e5?style=flat&logo=Gmail&logoColor=white&link=mailto:cristhianfelipe0@gmail.com)](mailto:cristhianfelipe0@gmail.com)
+
 [![Instagram Badge](https://img.shields.io/badge/-@dev.cristhian-8257e5?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.cristhian)](https://www.instagram.com/dev.cristhian)
 
-Enthusiast of the best technologies for web development and prototyping with microcontrollers.
+[![Medium Badge](https://img.shields.io/badge/-@cristhianfsantos-8257e5?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@cristhianfsantos/o-que-não-te-contaram-sobre-observables-d048b2d96aee)](https://medium.com/@cristhianfsantos/o-que-não-te-contaram-sobre-observables-d048b2d96aee)
+
+[📄 O que não te contaram sobre observables.](https://medium.com/@cristhianfsantos/o-que-não-te-contaram-sobre-observables-d048b2d96aee)
+
+
 
 ### Languages and Tools:
 
@@ -14,7 +22,9 @@ Enthusiast of the best technologies for web development and prototyping with mic
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor" alt="c#" width="40" height="40"/> 
-</a> 
+</a>
+<a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="React" width="40" height="40"/> 
+</a>  
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
